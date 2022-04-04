@@ -14,5 +14,5 @@
 - ⚙️ I mainly use: `.py`, `.sql`, `.yaml` | `.js`, `.ts`, `.html`, `.css`.
 - 💅 Worked with: [Turpial](https://turpialdev.com/inicio/), [IG Networks](https://ignetworks.com), [Harness](https://www.joinharness.com/).
 - 💬 Ping me about **python**, **django**, **database**, **reactjs**, **js**, **development**, **leadership**, **best-practices**.
-- 📫 Reach me: [twitter.com/milandre](https://twitter.com/milandre).
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/milandre/).
 - ⭐ Special Interest: Data Science & Machine Learning.
